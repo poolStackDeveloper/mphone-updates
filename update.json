@@ -1,14 +1,14 @@
 {
   "phone": {
-    "versionCode": 3,
-    "versionName": "0.2.0",
-    "url": "https://raw.githubusercontent.com/poolStackDeveloper/mphone-updates/main/phone-0.2.0.apk",
-    "sha256": "d4af7d6d4f42ff456284921916efbfa5478d738789c1ac274ee4a48b67fc23d1"
+    "versionCode": 4,
+    "versionName": "0.3.0",
+    "url": "https://raw.githubusercontent.com/poolStackDeveloper/mphone-updates/main/phone-0.3.0.apk",
+    "sha256": "f6ef6f18d37a0021799f963ec864f35aab728b3a842d7461d3884ef40d725908"
   },
   "admin": {
-    "versionCode": 3,
-    "versionName": "0.2.0",
-    "url": "https://raw.githubusercontent.com/poolStackDeveloper/mphone-updates/main/admin-0.2.0.apk",
-    "sha256": "153d0a40bd47c92ebec730917206a97c5d5178eee673fea5a5dd1afe621838af"
+    "versionCode": 4,
+    "versionName": "0.3.0",
+    "url": "https://raw.githubusercontent.com/poolStackDeveloper/mphone-updates/main/admin-0.3.0.apk",
+    "sha256": "b3cf1b9ed6a5acab46656aeb4e48fe8eb9d98bdbc09893937c31a4ae01675533"
   }
 }
